@@ -118,9 +118,9 @@ hr {
 
 /** HEADER */
 
-#header-wrapper
-{
-	background: url(images/Logo.jpg) no-repeat center center;
+#header-wrapper {
+	/*background: url(images/Logo.jpg) no-repeat center center;*/
+	background: url(images/Logo.jpg) repeat center center;
 	background-size: cover;
 }
 
